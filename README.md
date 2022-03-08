@@ -1,2 +1,3 @@
 # CurrencyBot
-kurslar
+pul birliklarini solishtiruvchi bot
+
